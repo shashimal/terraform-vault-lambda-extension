@@ -1,6 +1,6 @@
 provider "vault" {
-  address = "http://13.250.102.149:8200/"
-  token   = "s.XzVp6855nRrOWFWq5CEaT6zr"
+  address = "http://13.229.130.210:8200/"
+  token   = ""
 }
 
 provider "aws" {
